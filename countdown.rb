@@ -13,5 +13,6 @@ def countdown_with_sleep(num)
   counter = num
   until counter == 0
     counter -= 1
+    sleep 1
   end
 end
