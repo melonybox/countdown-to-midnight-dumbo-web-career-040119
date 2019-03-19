@@ -2,5 +2,5 @@
 
 def countdown(num)
   counter = num
-  
+  until 
 end
