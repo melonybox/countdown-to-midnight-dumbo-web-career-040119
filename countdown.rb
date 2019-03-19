@@ -2,5 +2,6 @@
 
 def countdown(num)
   counter = num
-  until 
+  until counter == 0
+  puts 
 end
